@@ -93,7 +93,7 @@
         "name": "Sunita Patil",
         "age": "58",
         "treatment": "Full Mouth Rehabilitation",
-        "image": "/testimonials/user1.jpg",
+        "image": "/user.jpeg",
         "quote": "I never thought I could smile with confidence again. The team at Ujwal Dental Clinic gave me a new lease on life. The entire process was handled with such professionalism and care.",
         "rating": 5
       },
@@ -101,7 +101,7 @@
         "name": "Ravi Desai",
         "age": "65",
         "treatment": "Full Mouth Rehabilitation",
-        "image": "/testimonials/user2.jpg",
+        "image": "/user.jpeg",
         "quote": "The results are beyond my expectations. My teeth feel strong, and my smile looks natural. The technology they use is truly top-notch.",
         "rating": 5
       }
@@ -193,7 +193,7 @@
         "name": "Amit Singh",
         "age": "34",
         "treatment": "Root Canal Treatment",
-        "image": "/testimonials/user3.jpg",
+        "image": "/user.jpeg",
         "quote": "I was terrified of getting a root canal, but Dr. Anita and her team made it a completely painless and comfortable experience. I'm so grateful they saved my tooth!",
         "rating": 5
       },
@@ -201,7 +201,7 @@
         "name": "Priya Mehta",
         "age": "42",
         "treatment": "Root Canal Treatment",
-        "image": "/testimonials/user4.jpg",
+        "image": "/user.jpeg",
         "quote": "The single-visit root canal was so convenient. The technology they use is impressive, and the staff is incredibly professional. Highly recommend.",
         "rating": 5
       }
@@ -292,7 +292,7 @@
         "name": "Vikram Rathod",
         "age": "45",
         "treatment": "Dental Implant",
-        "image": "/testimonials/user5.jpg",
+        "image": "/user.jpeg",
         "quote": "The implant feels just like my own tooth. I can eat anything I want without worry. The entire process at Ujwal Dental was smooth and professional.",
         "rating": 5
       },
@@ -300,7 +300,7 @@
         "name": "Anjali Verma",
         "age": "52",
         "treatment": "Multiple Implants",
-        "image": "/testimonials/user6.jpg",
+        "image": "/user.jpeg",
         "quote": "I was missing several teeth, and it affected my confidence. Dr. Andhare and his team did an amazing job. My new smile looks and feels completely natural.",
         "rating": 5
       }
@@ -392,7 +392,7 @@
         "name": "Neha Sharma",
         "age": "28",
         "treatment": "Porcelain Veneers",
-        "image": "/testimonials/user7.jpg",
+        "image": "/user.jpeg",
         "quote": "The veneers have completely transformed my smile. I can't stop looking in the mirror! The process was so detailed, and the result is perfect.",
         "rating": 5
       },
@@ -400,7 +400,7 @@
         "name": "Rohan Kapoor",
         "age": "35",
         "treatment": "Teeth Whitening",
-        "image": "/testimonials/user8.jpg",
+        "image": "/user.jpeg",
         "quote": "Quick, easy, and the results were amazing. My teeth are several shades whiter. The team at Ujwal Dental Clinic was fantastic.",
         "rating": 5
       }
@@ -454,7 +454,7 @@
         "name": "Priya Sharma",
         "age": "47",
         "treatment": "Crown & Bridge",
-        "image": "/testimonials/patient9.jpg",
+        "image": "/user.jpeg",
         "quote": "The crowns fit perfectly and look so natural! I couldn’t be happier with the results.",
         "rating": 5
       }
@@ -508,7 +508,7 @@
         "name": "Ashok Mehta",
         "age": "54",
         "treatment": "Oral & Maxillofacial Surgery",
-        "image": "/testimonials/patient10.jpg",
+        "image": "/user.jpeg",
         "quote": "I felt safe and well-informed throughout my surgery. Recovery was smooth and quick.",
         "rating": 5
       }
@@ -562,7 +562,7 @@
         "name": "Sunil Deshpande",
         "age": "62",
         "treatment": "Flap Surgery with Bone Grafting",
-        "image": "/testimonials/patient11.jpg",
+        "image": "/user.jpeg",
         "quote": "The bone graft gave me the confidence to get implants. The team was professional and caring.",
         "rating": 5
       }
@@ -616,7 +616,7 @@
         "name": "Geeta Patel",
         "age": "29",
         "treatment": "Impacted Teeth Removal",
-        "image": "/testimonials/patient12.jpg",
+        "image": "/user.jpeg",
         "quote": "The extraction was quick and painless. I was back to normal activities the next day.",
         "rating": 5
       }
@@ -675,7 +675,7 @@
         "name": "Rohit Kumar",
         "age": "21",
         "treatment": "Orthodontic Treatment",
-        "image": "/testimonials/patient13.jpg",
+        "image": "/user.jpeg",
         "quote": "My smile transformation was amazing. The clear aligners were comfortable and effective.",
         "rating": 5
       }
@@ -728,7 +728,7 @@
         "name": "Leena Joshi",
         "age": "58",
         "treatment": "Flexible Dentures",
-        "image": "/testimonials/patient14.jpg",
+        "image": "/user.jpeg",
         "quote": "These dentures are so comfortable; I forgot I was wearing them!",
         "rating": 5
       }
@@ -782,7 +782,7 @@
         "name": "Vijay Singh",
         "age": "68",
         "treatment": "Complete Denture",
-        "image": "/testimonials/patient15.jpg",
+        "image": "/user.jpeg",
         "quote": "My new dentures fit perfectly and restored my ability to enjoy food again.",
         "rating": 5
       }
@@ -836,7 +836,7 @@
         "name": "Anita Rao",
         "age": "54",
         "treatment": "Post & Core Prosthesis",
-        "image": "/testimonials/patient16.jpg",
+        "image": "/user.jpeg",
         "quote": "The support from the post and core made my crown feel so stable and natural.",
         "rating": 5
       }
@@ -890,7 +890,7 @@
         "name": "Meena Gupta",
         "age": "40",
         "treatment": "Oral Prophylaxis",
-        "image": "/testimonials/patient17.jpg",
+        "image": "/user.jpeg",
         "quote": "My teeth have never felt cleaner. The procedure was quick and effective.",
         "rating": 5
       }
@@ -944,7 +944,7 @@
         "name": "Karan Patel",
         "age": "37",
         "treatment": "OPG & RVG X-Ray",
-        "image": "/testimonials/patient18.jpg",
+        "image": "/user.jpeg",
         "quote": "The imaging was fast and painless, and it helped the doctor explain my treatment clearly.",
         "rating": 5
       }
@@ -998,7 +998,7 @@
         "name": "Ria Verma",
         "age": "8",
         "treatment": "Pediatric Dental Care",
-        "image": "/testimonials/patient19.jpg",
+        "image": "/user.jpeg",
         "quote": "I loved my dentist! He made the checkup fun, and I didn’t feel scared at all.",
         "rating": 5
       }

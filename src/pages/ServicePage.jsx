@@ -170,7 +170,7 @@ const ServicesPage = () => {
             <div className="text-center mt-8">
               <button
                 onClick={() => setShowAllServices(!showAllServices)}
-                className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-red-500 to-orange-500 text-white rounded-full text-sm font-semibold hover:from-red-600 hover:to-orange-600 transition-all duration-300"
+                className="inline-flex items-center gap-2 px-6 py-3 bg-[#64c4ed] text-white rounded-full text-sm font-semibold hover:from-red-600 hover:to-orange-600 transition-all duration-300"
               >
                 {showAllServices ? "Show Less" : "View All Services"}
                 <svg
