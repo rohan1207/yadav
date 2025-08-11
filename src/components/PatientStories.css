@@ -1,0 +1,46 @@
+/* PatientStories.css */
+
+.scroller-container {
+  height: 70vh; /* You can adjust this height */
+  overflow: hidden;
+  position: relative;
+  -webkit-mask-image: linear-gradient(to bottom, transparent, #000 10%, #000 90%, transparent);
+  mask-image: linear-gradient(to bottom, transparent, #000 10%, #000 90%, transparent);
+}
+
+.scroller-content {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 1.5rem; /* 24px */
+  animation: scroll-up 10s linear infinite;
+}
+
+@media (min-width: 768px) { /* md */
+  .scroller-content {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) { /* lg */
+  .scroller-content {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.scroller-container:hover .scroller-content {
+  animation-play-state: paused;
+}
+
+@keyframes scroll-up {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-50%);
+  }
+}
+
+/* To prevent layout shift, we add a spacer div of the same height as the gap */
+.scroller-content > *:last-child {
+    margin-bottom: 1.5rem;
+}

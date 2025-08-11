@@ -1,0 +1,1008 @@
+{
+  "full-mouth-rehabilitation": {
+    "name": "Full Mouth Rehabilitation",
+    "heroImage": "/Full_Mouth_Rehabilitation.jpg",
+    "overview": {
+      "title": "Complete Smile Restoration",
+      "description": "Full mouth rehabilitation, also known as full mouth reconstruction, is a comprehensive dental treatment plan that aims to restore the health, function, and appearance of all teeth in the mouth.",
+      "stats": [
+        { "number": "500+", "label": "Restorations Completed" },
+        { "number": "99%", "label": "Patient Satisfaction" },
+        { "number": "Advanced", "label": "Technology Used" },
+        { "number": "10+", "label": "Years of Experience" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Anita S. Yadao",
+      "title": "Head of Restorative Dentistry",
+      "image": "/anita.webp",
+      "message": "Our goal with full mouth rehabilitation is to not only restore your smile's beauty but also its complete function. We use a personalized approach, combining artistry with advanced dental science to achieve life-changing results.",
+      "credentials": [
+        "M.D.S. Endodontist",
+        "Cosmetic Dentistry Expert"
+      ],
+      "info": "Dr. Anita S. Yadao specializes in complex dental reconstructions. Her expertise in endodontics and cosmetic dentistry makes her a leading professional in full mouth rehabilitation, ensuring every patient receives comprehensive care for a healthy, functional, and beautiful smile."
+    },
+    "team": {
+      "description": "Our rehabilitation team consists of prosthodontists, oral surgeons, and cosmetic dentists working together to create a seamless treatment experience.",
+      "members": [
+        {
+          "name": "Dr. Jitendra Shinde",
+          "role": "Prosthodontist",
+          "image": "/jitendra.webp"
+        },
+        {
+          "name": "Dr. Adinath Jadhao",
+          "role": "Maxillofacial Surgeon",
+          "image": "/adinath.webp"
+        },
+        {
+          "name": "Dr. Sachin V. Yadao",
+          "role": "Dental Surgeon",
+          "image": "/sachin.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Comprehensive Oral Examination",
+        "description": "A detailed assessment of your teeth, gums, and jaw structure using 3D imaging and digital scans.",
+        "image": "/Comprehensive_Oral_Examination.jpg",
+        "benefits": ["Accurate Diagnosis", "Personalized Treatment Plan", "Clear Expectations"]
+      },
+      {
+        "name": "Restorative Procedures",
+        "description": "Includes crowns, bridges, veneers, and implants to repair or replace damaged or missing teeth.",
+        "image": "/Restorative_Procedures.jpg",
+        "benefits": [
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Long-lasting Results"
+        ]
+      },
+      {
+        "name": "Bite Alignment and Adjustment",
+        "description": "Correcting the bite (occlusion) to ensure comfort, prevent wear, and improve jaw function.",
+        "image": "/Bite_Alignment_and_Adjustment.jpg",
+        "benefits": [
+          "Pain Relief",
+          "Prevents Further Damage",
+          "Optimal Jaw Health"
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "3D CBCT Imaging",
+        "image": "/3D_CBCT_Imaging.jpg",
+        "description": "Cone Beam Computed Tomography for precise 3D views of your jawbone, teeth, and facial structures."
+      },
+      {
+        "name": "Intraoral Digital Scanners",
+        "image": "/Intraoral_Digital_Scanners.jpg",
+        "description": "Creates highly accurate 3D models of your teeth, eliminating the need for messy traditional impressions."
+      },
+      {
+        "name": "CAD/CAM Technology",
+        "image": "/CAD_CAM_Technology.jpg",
+        "description": "Computer-Aided Design and Manufacturing for creating custom crowns, bridges, and veneers with perfect fit and aesthetics."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Sunita Patil",
+        "age": "58",
+        "treatment": "Full Mouth Rehabilitation",
+        "image": "/testimonials/user1.jpg",
+        "quote": "I never thought I could smile with confidence again. The team at Ujwal Dental Clinic gave me a new lease on life. The entire process was handled with such professionalism and care.",
+        "rating": 5
+      },
+      {
+        "name": "Ravi Desai",
+        "age": "65",
+        "treatment": "Full Mouth Rehabilitation",
+        "image": "/testimonials/user2.jpg",
+        "quote": "The results are beyond my expectations. My teeth feel strong, and my smile looks natural. The technology they use is truly top-notch.",
+        "rating": 5
+      }
+    ]
+  },
+  "root-canal-treatment": {
+    "name": "Root Canal Treatment",
+    "heroImage": "/Root_Canal_Treatment.jpg",
+    "overview": {
+      "title": "Painless Root Canal Therapy",
+      "description": "A root canal is a dental procedure that treats an infected or damaged tooth by removing the infected pulp, cleaning and shaping the inside of the tooth, and then filling and sealing the space.",
+      "stats": [
+        { "number": "10,000+", "label": "Procedures Performed" },
+        { "number": "98%", "label": "Success Rate" },
+        { "number": "Painless", "label": "Techniques" },
+        { "number": "Single Visit", "label": "Option Available" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Anita S. Yadao",
+      "title": "Lead Endodontist",
+      "image": "/anita.webp",
+      "message": "Our primary focus is to save your natural teeth. With modern root canal therapy, we can alleviate your pain and preserve your tooth for years to come, often in a single, comfortable visit.",
+      "credentials": [
+        "M.D.S. Endodontist",
+        "Root Canal Treatment Specialist"
+      ],
+      "info": "As a specialist in Endodontics, Dr. Anita S. Yadao is an expert in diagnosing and treating tooth pain. She utilizes advanced techniques like microscopic endodontics to ensure the highest precision and success rates for all root canal treatments."
+    },
+    "team": {
+      "description": "Our endodontic team is comprised of specialists who focus exclusively on treatments of the dental pulp, ensuring you receive expert care.",
+      "members": [
+        {
+          "name": "Dr. Abhijit Khade",
+          "role": "Endodontist",
+          "image": "/abhijit.webp"
+        },
+        {
+          "name": "Dr. Dhananjay Gunawat",
+          "role": "Endodontist",
+          "image": "/dhananjay.webp"
+        },
+        {
+          "name": "Dr. Kapil Jadiya",
+          "role": "Endodontist",
+          "image": "/kapil.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Diagnosis and X-Ray",
+        "description": "Using digital RVG X-rays to accurately diagnose the extent of the infection and plan the treatment.",
+        "image": "/Diagnosis_and_X-Ray.jpg",
+        "benefits": ["Accurate Diagnosis", "Minimal Radiation", "Immediate Results"]
+      },
+      {
+        "name": "Pulp Removal and Cleaning",
+        "description": "Gentle removal of the infected pulp, followed by meticulous cleaning and shaping of the root canals.",
+        "image": "/Pulp_Removal_and_Cleaning.jpg",
+        "benefits": ["Pain Relief", "Infection Control", "Preservation of Tooth"]
+      },
+      {
+        "name": "Filling and Sealing",
+        "description": "The cleaned canals are filled with a biocompatible material and sealed to prevent re-infection, followed by a crown for protection.",
+        "image": "/Filling_and_Sealing.jpg",
+        "benefits": ["Durable Restoration", "Natural Appearance", "Long-term Protection"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Dental Microscope",
+        "image": "/Dental_Microscope.jpg",
+        "description": "Provides high magnification and illumination for precise and thorough cleaning of root canals."
+      },
+      {
+        "name": "Rotary Endodontics",
+        "image": "/Rotary_Endodontics.jpg",
+        "description": "Flexible, nickel-titanium files that clean and shape the canals more efficiently and quietly than traditional methods."
+      },
+      {
+        "name": "Apex Locators",
+        "image": "/Apex_Locators.jpg",
+        "description": "Electronic devices used to determine the precise length of the root canal, ensuring a complete and accurate cleaning."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Amit Singh",
+        "age": "34",
+        "treatment": "Root Canal Treatment",
+        "image": "/testimonials/user3.jpg",
+        "quote": "I was terrified of getting a root canal, but Dr. Anita and her team made it a completely painless and comfortable experience. I'm so grateful they saved my tooth!",
+        "rating": 5
+      },
+      {
+        "name": "Priya Mehta",
+        "age": "42",
+        "treatment": "Root Canal Treatment",
+        "image": "/testimonials/user4.jpg",
+        "quote": "The single-visit root canal was so convenient. The technology they use is impressive, and the staff is incredibly professional. Highly recommend.",
+        "rating": 5
+      }
+    ]
+  },
+  "implants": {
+    "name": "Dental Implants",
+    "heroImage": "/Implants.jpg",
+    "overview": {
+      "title": "Permanent Solution for Missing Teeth",
+      "description": "A dental implant is a titanium screw that replaces a missing tooth's root. The surgeon inserts the implant into the jawbone, where it acts as a permanent anchor for a natural-looking artificial tooth (crown).",
+      "stats": [
+        { "number": "5,000+", "label": "Implants Placed" },
+        { "number": "99%", "label": "Success Rate" },
+        { "number": "Lifetime", "label": "Solution" },
+        { "number": "Natural Look", "label": "and Feel" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Mangesh Andhare",
+      "title": "Lead Implantologist",
+      "image": "/mangesh.webp",
+      "message": "Dental implants are the gold standard for replacing missing teeth. They restore not just your smile, but your confidence and ability to eat comfortably. We use the latest guided surgery techniques for predictable, long-lasting results.",
+      "credentials": [
+        "MDS in Periodontics & Oral Implantology"
+      ],
+      "info": "Dr. Mangesh Andhare is a specialist in oral implantology, focusing on the surgical placement of dental implants and bone grafting procedures. His meticulous approach ensures optimal integration and longevity of the implants, providing patients with a durable and aesthetic solution for missing teeth."
+    },
+    "team": {
+      "description": "Our implantology team includes experienced oral surgeons and prosthodontists who collaborate to ensure both the surgical and restorative phases of your treatment are seamless.",
+      "members": [
+        {
+          "name": "Dr. Adinath Jadhao",
+          "role": "Maxillofacial Surgeon",
+          "image": "/adinath.webp"
+        },
+        {
+          "name": "Dr. Jitendra Shinde",
+          "role": "Prosthodontist",
+          "image": "/jitendra.webp"
+        },
+        {
+          "name": "Dr. Jayant Ambulgikar",
+          "role": "Periodontist",
+          "image": "/jayant.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Implant Placement Surgery",
+        "description": "A minor surgical procedure to place the titanium implant into the jawbone under local anesthesia.",
+        "image": "/treatments/implant-placement.jpg",
+        "benefits": ["Minimally Invasive", "High Success Rate", "Foundation for New Tooth"]
+      },
+      {
+        "name": "Bone Grafting",
+        "description": "A procedure to build up the jawbone when there is insufficient bone to support an implant.",
+        "image": "/treatments/bone-grafting.jpg",
+        "benefits": ["Enables Implant Placement", "Improves Stability", "Restores Facial Structure"]
+      },
+      {
+        "name": "Crown Restoration",
+        "description": "After the implant has integrated with the bone, a custom-made, natural-looking crown is attached to the implant.",
+        "image": "/treatments/implant-crown.jpg",
+        "benefits": ["Aesthetic and Functional", "Perfect Color Match", "Durable and Long-lasting"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Computer-Guided Implant Surgery",
+        "image": "/tech/guided-surgery.jpg",
+        "description": "Uses 3D imaging to plan the precise placement of the implant, increasing safety and accuracy."
+      },
+      {
+        "name": "3D CBCT Scanner",
+        "image": "/tech/cbct-scanner.jpg",
+        "description": "Provides detailed 3D images of the jawbone, essential for planning implant surgery."
+      },
+      {
+        "name": "Piezosurgery",
+        "image": "/tech/piezosurgery.jpg",
+        "description": "Ultrasonic technology for precise and gentle bone surgery, minimizing trauma to surrounding tissues."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Vikram Rathod",
+        "age": "45",
+        "treatment": "Dental Implant",
+        "image": "/testimonials/user5.jpg",
+        "quote": "The implant feels just like my own tooth. I can eat anything I want without worry. The entire process at Ujwal Dental was smooth and professional.",
+        "rating": 5
+      },
+      {
+        "name": "Anjali Verma",
+        "age": "52",
+        "treatment": "Multiple Implants",
+        "image": "/testimonials/user6.jpg",
+        "quote": "I was missing several teeth, and it affected my confidence. Dr. Andhare and his team did an amazing job. My new smile looks and feels completely natural.",
+        "rating": 5
+      }
+    ]
+  },
+  "cosmetic-dentistry": {
+    "name": "Cosmetic Dentistry",
+    "heroImage": "/Cosmetic_Dentistry.jpg",
+    "overview": {
+      "title": "Design Your Perfect Smile",
+      "description": "Cosmetic dentistry focuses on improving the appearance of your teeth, gums, and smile. It includes a range of treatments from teeth whitening and veneers to complete smile makeovers.",
+      "stats": [
+        { "number": "1,000+", "label": "Smile Makeovers" },
+        { "number": "Digital", "label": "Smile Design" },
+        { "number": "Customized", "label": "Treatment Plans" },
+        { "number": "Stunning", "label": "Results" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Anita S. Yadao",
+      "title": "Cosmetic Dentistry Expert",
+      "image": "/anita.webp",
+      "message": "A beautiful smile is a powerful asset. We combine artistry with the latest dental techniques to craft smiles that are not only beautiful but also healthy and natural-looking. Let us help you achieve the smile of your dreams.",
+      "credentials": [
+        "M.D.S. Endodontist",
+        "Cosmetic Dentistry Expert"
+      ],
+      "info": "Dr. Anita S. Yadao has a keen eye for aesthetics and a passion for creating beautiful smiles. She specializes in a range of cosmetic procedures, including veneers, teeth whitening, and digital smile design, to provide personalized results that enhance her patients' confidence."
+    },
+    "team": {
+      "description": "Our cosmetic dentistry team is dedicated to the art and science of smile enhancement, ensuring every detail is perfect.",
+      "members": [
+        {
+          "name": "Dr. Shivam Agrawal",
+          "role": "Orthodontist",
+          "image": "/shivam.webp"
+        },
+        {
+          "name": "Dr. Jitendra Shinde",
+          "role": "Prosthodontist",
+          "image": "/jitendra.webp"
+        },
+        {
+          "name": "Dr. Sachin V. Yadao",
+          "role": "Dental Surgeon",
+          "image": "/sachin.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Porcelain Veneers",
+        "description": "Thin, custom-made shells of tooth-colored material designed to cover the front surface of teeth to improve their appearance.",
+        "image": "/Porcelain_Veneers.jpg",
+        "benefits": ["Instant Transformation", "Stain Resistant", "Durable and Natural-looking"]
+      },
+      {
+        "name": "Teeth Whitening (Bleaching)",
+        "description": "A safe and effective procedure to lighten the color of your teeth and remove stains and discoloration.",
+        "image": "/Teeth_Whitening_Bleaching.jpg",
+        "benefits": ["Brighter, Whiter Smile", "Fast and Effective", "Boosts Confidence"]
+      },
+      {
+        "name": "Digital Smile Design (DSD)",
+        "description": "A modern approach where you can preview your new smile on a screen before any treatment begins, ensuring predictable and satisfying results.",
+        "image": "/Digital_Smile_Design.jpg",
+        "benefits": ["Visualize Your New Smile", "Co-design Your Treatment", "Predictable Outcomes"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Digital Smile Design Software",
+        "image": "/Digital_Smile_Design_Software.jpg",
+        "description": "Advanced software to analyze facial and dental structures to create a smile that is in harmony with your features."
+      },
+      {
+        "name": "Laser Dentistry",
+        "image": "/Laser_Dentistry.jpg",
+        "description": "Used for gum contouring and other soft tissue procedures to create a more aesthetic gum line with minimal discomfort."
+      },
+      {
+        "name": "High-Quality Ceramics",
+        "image": "/High_Quality_Ceramics.jpg",
+        "description": "We use top-grade porcelain and ceramic materials that mimic the translucency and strength of natural teeth."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Neha Sharma",
+        "age": "28",
+        "treatment": "Porcelain Veneers",
+        "image": "/testimonials/user7.jpg",
+        "quote": "The veneers have completely transformed my smile. I can't stop looking in the mirror! The process was so detailed, and the result is perfect.",
+        "rating": 5
+      },
+      {
+        "name": "Rohan Kapoor",
+        "age": "35",
+        "treatment": "Teeth Whitening",
+        "image": "/testimonials/user8.jpg",
+        "quote": "Quick, easy, and the results were amazing. My teeth are several shades whiter. The team at Ujwal Dental Clinic was fantastic.",
+        "rating": 5
+      }
+    ]
+  },
+  "crown-&-bridge": {
+    "name": "Crown & Bridge",
+    "heroImage": "/Crown_&_Bridge.jpg",
+    "overview": {
+      "title": "Precision Crowns & Bridges",
+      "description": "Custom-fitted crowns and bridges to restore damaged or missing teeth, improving function and aesthetics.",
+      "stats": []
+    },
+    "doctor": {
+      "name": "Dr. Jitendra Shinde",
+      "title": "Prosthodontist",
+      "image": "/jitendra.webp",
+      "message": "Our crowns and bridges are crafted for durability and a natural look, seamlessly blending with your smile.",
+      "credentials": [
+        "MDS Prosthodontist"
+      ],
+      "info": "Dr. Shinde specializes in prosthetic restorations using the latest materials and techniques to ensure optimal fit and function."
+    },
+    "team": {
+      "description": "Our prosthodontic team collaborates to deliver precise and long-lasting restorations.",
+      "members": [
+        {
+          "name": "Dr. Jitendra Shinde",
+          "role": "Prosthodontist",
+          "image": "/jitendra.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Crown Fabrication & Fitting",
+        "description": "Custom fabrication and precise fitting of high-quality crowns to restore tooth structure and appearance.",
+        "image": "/Crown_Fabrication_Fitting.jpg",
+        "benefits": ["Improved Aesthetics", "Enhanced Strength"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Digital CAD/CAM Imaging",
+        "image": "/Digital_CAD_CAM_Imaging.jpg",
+        "description": "Computer-aided design and manufacturing for precisely milled crowns and bridges."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Priya Sharma",
+        "age": "47",
+        "treatment": "Crown & Bridge",
+        "image": "/testimonials/patient9.jpg",
+        "quote": "The crowns fit perfectly and look so natural! I couldn’t be happier with the results.",
+        "rating": 5
+      }
+    ]
+  },
+  "oral-&-maxillofacial-surgeries": {
+    "name": "Oral & Maxillofacial Surgeries",
+    "heroImage": "/Oral_&_Maxillofacial_Surgeries_&_Treatments_for_Jaw_fractures.jpg",
+    "overview": {
+      "title": "Advanced Oral Surgery",
+      "description": "Surgical procedures to treat complex facial, jaw, and oral conditions.",
+      "stats": []
+    },
+    "doctor": {
+      "name": "Dr. Adinath Jadhao",
+      "title": "Maxillofacial Surgeon",
+      "image": "/adinath.webp",
+      "message": "Our surgeons are skilled in the latest techniques to ensure safe and effective outcomes.",
+      "credentials": [
+        "MDS Maxillofacial Surgery"
+      ],
+      "info": "Dr. Jadhao leads our surgical team, offering expert care for trauma and reconstructive cases."
+    },
+    "team": {
+      "description": "Dedicated surgical staff ensuring patient safety and comfort.",
+      "members": [
+        {
+          "name": "Dr. Adinath Jadhao",
+          "role": "Maxillofacial Surgeon",
+          "image": "/adinath.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Complex Oral Surgery",
+        "description": "Surgical treatment of facial trauma and jaw disorders with advanced techniques.",
+        "image": "/Complex_Oral_Surgery.jpg",
+        "benefits": ["Effective Healing", "Reduced Complications"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "3D Guided Surgery",
+        "image": "/3D_Guided_Surgery.jpg",
+        "description": "3D planning and surgical guides for precise implant and reconstructive procedures."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Ashok Mehta",
+        "age": "54",
+        "treatment": "Oral & Maxillofacial Surgery",
+        "image": "/testimonials/patient10.jpg",
+        "quote": "I felt safe and well-informed throughout my surgery. Recovery was smooth and quick.",
+        "rating": 5
+      }
+    ]
+  },
+  "flap-surgery-with-bone-grafting": {
+    "name": "Flap Surgery with Bone Grafting",
+    "heroImage": "/Flap_Surgery_with_Bone_Grafting.jpg",
+    "overview": {
+      "title": "Periodontal Surgery & Grafting",
+      "description": "Repair and regenerate bone and gum tissue damaged by advanced gum disease.",
+      "stats": []
+    },
+    "doctor": {
+      "name": "Dr. Mangesh Andhare",
+      "title": "Periodontist",
+      "image": "/mangesh.webp",
+      "message": "Our bone grafting procedures restore bone structure, providing a stable foundation for dental implants.",
+      "credentials": [
+        "MDS Periodontics & Oral Implantology"
+      ],
+      "info": "Dr. Andhare specializes in periodontal regeneration techniques for optimal healing and function."
+    },
+    "team": {
+      "description": "Our periodontal experts work together to treat and manage gum disease effectively.",
+      "members": [
+        {
+          "name": "Dr. Mangesh Andhare",
+          "role": "Periodontist",
+          "image": "/mangesh.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Bone Grafting",
+        "description": "Augmentation of jawbone using graft material to support dental implants.",
+        "image": "/Bone_Grafting.jpg",
+        "benefits": ["Enhanced Stability", "Bone Regeneration"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Piezosurgery",
+        "image": "/Piezosurgery.jpg",
+        "description": "Ultrasonic bone cutting tool for minimally invasive graft procedures."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Sunil Deshpande",
+        "age": "62",
+        "treatment": "Flap Surgery with Bone Grafting",
+        "image": "/testimonials/patient11.jpg",
+        "quote": "The bone graft gave me the confidence to get implants. The team was professional and caring.",
+        "rating": 5
+      }
+    ]
+  },
+  "surgeries-for-impacted-teeth": {
+    "name": "Surgeries for Impacted Teeth",
+    "heroImage": "/Surgeries_for_Impacted_teeths_Cysts_Acute_Chronic_Abscess.jpg",
+    "overview": {
+      "title": "Impacted Tooth Removal",
+      "description": "Surgical extraction of impacted teeth, cyst removal, and abscess management.",
+      "stats": []
+    },
+    "doctor": {
+      "name": "Dr. Adinath Jadhao",
+      "title": "Oral Surgeon",
+      "image": "/adinath.webp",
+      "message": "Expert surgical management of impacted teeth ensures minimal trauma and quick recovery.",
+      "credentials": [
+        "MDS Maxillofacial Surgery"
+      ],
+      "info": "Dr. Jadhao has extensive experience in complex extractions and cyst management."
+    },
+    "team": {
+      "description": "Skilled surgical assistants ensuring safe tooth removal procedures.",
+      "members": [
+        {
+          "name": "Dr. Adinath Jadhao",
+          "role": "Oral Surgeon",
+          "image": "/adinath.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Impacted Tooth Extraction",
+        "description": "Gentle surgical removal of impacted teeth ensuring minimal discomfort.",
+        "image": "/Impacted_Tooth_Extractio.jpg",
+        "benefits": ["Quick Recovery", "Minimal Pain"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Intraoral Camera Imaging",
+        "image": "/Intraoral_Camera_Imaging.jpg",
+        "description": "High-definition imaging to plan precise extractions and monitor healing."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Geeta Patel",
+        "age": "29",
+        "treatment": "Impacted Teeth Removal",
+        "image": "/testimonials/patient12.jpg",
+        "quote": "The extraction was quick and painless. I was back to normal activities the next day.",
+        "rating": 5
+      }
+    ]
+  },
+  "orthodontic-treatment": {
+    "name": "Orthodontic Treatment",
+    "heroImage": "/Orthodontic_Treatment.jpg",
+    "overview": {
+      "title": "Braces & Aligners",
+      "description": "Align teeth and jaws using braces, clear aligners, and retainers.",
+      "stats": []
+    },
+    "doctor": {
+      "name": "Dr. Shivam Agrawal",
+      "title": "Orthodontist",
+      "image": "/shivam.webp",
+      "message": "Customized orthodontic plans deliver straight, healthy smiles for patients of all ages.",
+      "credentials": [
+        "MDS Orthodontics"
+      ],
+      "info": "Dr. Agrawal is board-certified in orthodontics and dentofacial orthopedics."
+    },
+    "team": {
+      "description": "Our orthodontic specialists ensure precise tooth movement and bite correction.",
+      "members": [
+        {
+          "name": "Dr. Shivam Agrawal",
+          "role": "Orthodontist",
+          "image": "/shivam.webp"
+        },
+        {
+          "name": "Dr. Namrata Ghunawat",
+          "role": "Orthodontist",
+          "image": "/namrata.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Clear Aligner Therapy",
+        "description": "Custom-made clear aligners for discreet teeth straightening.",
+        "image": "/Clear_Aligner_Therapy.jpg",
+        "benefits": ["Invisible Treatment", "Comfortable Fit"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "3D Smile Simulation",
+        "image": "/3D_Smile_Simulation.jpg",
+        "description": "Digital preview of treatment outcome before starting orthodontic therapy."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Rohit Kumar",
+        "age": "21",
+        "treatment": "Orthodontic Treatment",
+        "image": "/testimonials/patient13.jpg",
+        "quote": "My smile transformation was amazing. The clear aligners were comfortable and effective.",
+        "rating": 5
+      }
+    ]
+  },
+  "flexible-dentures": {
+    "name": "Flexible Dentures",
+    "heroImage": "/Flexible_Dentures.jpg",
+    "overview": {
+      "title": "Comfortable Partial Dentures",
+      "description": "Soft, flexible partial dentures for superior comfort and fit.",
+      "stats": []
+    },
+    "doctor": {
+      "name": "Dr. Jitendra Shinde",
+      "title": "Prosthodontist",
+      "image": "/jitendra.webp",
+      "message": "Our flexible dentures adapt to your mouth for a natural, comfortable prosthesis.",
+      "credentials": [
+        "MDS Prosthodontist"
+      ],
+      "info": "Dr. Shinde designs and fits flexible dentures that enhance patient comfort and function."
+    },
+    "team": {
+      "description": "Expert technicians ensuring precise denture fabrication.",
+      "members": [
+        {
+          "name": "Dr. Jitendra Shinde",
+          "role": "Prosthodontist",
+          "image": "/jitendra.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Flexible Partial Denture Fitting",
+        "description": "Design and fitting of flexible dentures for superior comfort.",
+        "image": "/Flexible_Partial_Denture_Fitting.jpg",
+        "benefits": ["Comfortable Wear", "Natural Look"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Thermoplastic Resin",
+        "image": "/Thermoplastic_Resin.jpg",
+        "description": "Advanced materials for durable and flexible denture frameworks."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Leena Joshi",
+        "age": "58",
+        "treatment": "Flexible Dentures",
+        "image": "/testimonials/patient14.jpg",
+        "quote": "These dentures are so comfortable; I forgot I was wearing them!",
+        "rating": 5
+      }
+    ]
+  },
+  "complete-&-partial-denture": {
+    "name": "Complete & Partial Denture",
+    "heroImage": "/Complete_&_Partial_Denture.jpg",
+    "overview": {
+      "title": "Full & Partial Dentures",
+      "description": "Custom dentures to replace missing teeth, available as full or partial prostheses.",
+      "stats": []
+    },
+    "doctor": {
+      "name": "Dr. Jitendra Shinde",
+      "title": "Prosthodontist",
+      "image": "/jitendra.webp",
+      "message": "Our full and partial dentures are crafted for optimal aesthetics and function.",
+      "credentials": [
+        "MDS Prosthodontist"
+      ],
+      "info": "Dr. Shinde specializes in designing dentures that fit comfortably and look natural."
+    },
+    "team": {
+      "description": "Prosthetic team dedicated to fabricating high-quality dentures.",
+      "members": [
+        {
+          "name": "Dr. Jitendra Shinde",
+          "role": "Prosthodontist",
+          "image": "/jitendra.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Complete Denture Fabrication",
+        "description": "Custom fabrication of full dentures tailored to your mouth anatomy.",
+        "image": "/Complete_Denture_Fabrication.jpg",
+        "benefits": ["Full Tooth Replacement", "Improved Chewing Function"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Digital Impression Scanning",
+        "image": "/Digital_Impression_Scanning.jpg",
+        "description": "Precise digital impressions for perfectly fitting dentures."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Vijay Singh",
+        "age": "68",
+        "treatment": "Complete Denture",
+        "image": "/testimonials/patient15.jpg",
+        "quote": "My new dentures fit perfectly and restored my ability to enjoy food again.",
+        "rating": 5
+      }
+    ]
+  },
+  "post-&-core-prosthesis": {
+    "name": "Post & Core Prosthesis",
+    "heroImage": "/Post_&_Core_Prosthesis_for_Crown.jpg",
+    "overview": {
+      "title": "Post & Core Foundation",
+      "description": "Reinforce damaged tooth roots with a post and core for crown stability.",
+      "stats": []
+    },
+    "doctor": {
+      "name": "Dr. Anita S. Yadao",
+      "title": "Endodontist",
+      "image": "/anita.webp",
+      "message": "Post & core procedures restore structural integrity for durable crowns.",
+      "credentials": [
+        "MDS Endodontist"
+      ],
+      "info": "Dr. Yadao expertly prepares and places posts to support long-term restorations."
+    },
+    "team": {
+      "description": "Endodontic team ensuring precise post placement.",
+      "members": [
+        {
+          "name": "Dr. Anita S. Yadao",
+          "role": "Endodontist",
+          "image": "/anita.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Post & Core Placement",
+        "description": "Reinforcing the root structure with post and core to support crowns.",
+        "image": "/Post_&_Core_Prosthesis_for_Crown.jpg",
+        "benefits": ["Improved Retention", "Structural Support"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Dental Microscopy",
+        "image": "/Dental_Microscopy.jpg",
+        "description": "Enhanced magnification for precise post and core placement."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Anita Rao",
+        "age": "54",
+        "treatment": "Post & Core Prosthesis",
+        "image": "/testimonials/patient16.jpg",
+        "quote": "The support from the post and core made my crown feel so stable and natural.",
+        "rating": 5
+      }
+    ]
+  },
+  "oral-prophylaxis": {
+    "name": "Oral Prophylaxis",
+    "heroImage": "/Scaling_Polishing_&_Bleaching_(Oral Prophylaxis).jpg",
+    "overview": {
+      "title": "Professional Cleaning & Polishing",
+      "description": "Routine scaling and polishing to remove plaque and tartar, preventing decay and gum disease.",
+      "stats": []
+    },
+    "doctor": {
+      "name": "Dr. Rashmi Lokhande",
+      "title": "Pedodontist",
+      "image": "/rashmi.webp",
+      "message": "Our oral prophylaxis services ensure thorough cleaning for healthy gums and teeth.",
+      "credentials": [
+        "MDS Pedodontist"
+      ],
+      "info": "Dr. Lokhande specializes in gentle, effective cleaning techniques suitable for all ages."
+    },
+    "team": {
+      "description": "Preventive care team focusing on hygiene education and maintenance.",
+      "members": [
+        {
+          "name": "Dr. Rashmi Lokhande",
+          "role": "Pedodontist",
+          "image": "/rashmi.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Professional Scaling & Polishing",
+        "description": "Thorough removal of plaque and tartar for healthier gums.",
+        "image": "/Scaling_Polishing_&_Bleaching_(Oral Prophylaxis).jpg",
+        "benefits": ["Prevent Decay", "Fresh Breath"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Ultrasonic Scaler",
+        "image": "/Ultrasonic_Scaler.jpg",
+        "description": "High-frequency instruments for efficient and comfortable cleaning."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Meena Gupta",
+        "age": "40",
+        "treatment": "Oral Prophylaxis",
+        "image": "/testimonials/patient17.jpg",
+        "quote": "My teeth have never felt cleaner. The procedure was quick and effective.",
+        "rating": 5
+      }
+    ]
+  },
+  "opg-&-rvg-x-ray": {
+    "name": "OPG & RVG X-Ray",
+    "heroImage": "/O.P.G R.V.G X-Ray.jpg",
+    "overview": {
+      "title": "Digital Dental Imaging",
+      "description": "Panoramic OPG and RVG intraoral X-rays for accurate dental diagnostics.",
+      "stats": []
+    },
+    "doctor": {
+      "name": "Dr. Abhijit Khade",
+      "title": "Endodontist",
+      "image": "/abhijit.webp",
+      "message": "Our digital imaging services provide clear, high-resolution images for precise treatment planning.",
+      "credentials": [
+        "MDS Endodontist"
+      ],
+      "info": "Dr. Khade uses digital radiography to diagnose and guide endodontic and surgical procedures."
+    },
+    "team": {
+      "description": "Radiology team ensuring safe and accurate imaging.",
+      "members": [
+        {
+          "name": "Dr. Abhijit Khade",
+          "role": "Endodontist",
+          "image": "/abhijit.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Panoramic & RVG Imaging",
+        "description": "Comprehensive dental imaging for accurate diagnosis.",
+        "image": "/Panoramic_&_RVG_Imaging.jpg",
+        "benefits": ["Detailed Views", "Early Detection"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Digital Radiography",
+        "image": "/Digital_Radiography.jpg",
+        "description": "High-resolution intraoral and panoramic X-ray imaging."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Karan Patel",
+        "age": "37",
+        "treatment": "OPG & RVG X-Ray",
+        "image": "/testimonials/patient18.jpg",
+        "quote": "The imaging was fast and painless, and it helped the doctor explain my treatment clearly.",
+        "rating": 5
+      }
+    ]
+  },
+  "pediatric-dental-care": {
+    "name": "Pediatric Dental Care",
+    "heroImage": "/All_Paedodontic_Treatments_for_Childrens.jpg",
+    "overview": {
+      "title": "Child-Friendly Dentistry",
+      "description": "Specialized care for children, focusing on prevention, education, and gentle treatment.",
+      "stats": []
+    },
+    "doctor": {
+      "name": "Dr. Rashmi Lokhande",
+      "title": "Pedodontist",
+      "image": "/rashmi.webp",
+      "message": "We create a comfortable environment to ensure positive dental experiences for children.",
+      "credentials": [
+        "MDS Pedodontist"
+      ],
+      "info": "Dr. Lokhande is experienced in managing pediatric behavior and delivering care tailored to young patients."
+    },
+    "team": {
+      "description": "Our pediatric team includes specialists trained in child psychology and dental care.",
+      "members": [
+        {
+          "name": "Dr. Rashmi Lokhande",
+          "role": "Pedodontist",
+          "image": "/rashmi.webp"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Child-Friendly Exams",
+        "description": "Gentle examinations and cleanings with kid-friendly techniques.",
+        "image": "/Child_Friendly_Exams.jpg",
+        "benefits": ["Comfortable Experience", "Fun Environment"]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Pediatric Dental Equipment",
+        "image": "/Pediatric_Dental_Equipment.jpg",
+        "description": "Specialized tools designed for children’s comfort and safety."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Ria Verma",
+        "age": "8",
+        "treatment": "Pediatric Dental Care",
+        "image": "/testimonials/patient19.jpg",
+        "quote": "I loved my dentist! He made the checkup fun, and I didn’t feel scared at all.",
+        "rating": 5
+      }
+    ]
+  }
+}
