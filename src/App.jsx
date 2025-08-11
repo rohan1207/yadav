@@ -10,12 +10,13 @@ import OurTeam from "./components/OurTeam";
 import ServicesPage from "./pages/ServicePage";
 import ServiceDetail from "./pages/ServiceDetail";
 import Gallery from "./pages/Gallery";
-
+import ScrollToTop from "./components/ScrollToTop";
 const App = () => {
   return (
     <>
       <BrowserRouter>
         <Navbar />
+        <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/services" element={<ServicesPage />} />

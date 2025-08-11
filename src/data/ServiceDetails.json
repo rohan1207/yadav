@@ -47,13 +47,13 @@
       {
         "name": "Comprehensive Oral Examination",
         "description": "A detailed assessment of your teeth, gums, and jaw structure using 3D imaging and digital scans.",
-        "image": "/Comprehensive_Oral_Examination.jpg",
+        "image": "/comprehensive-dental-exam.jpg",
         "benefits": ["Accurate Diagnosis", "Personalized Treatment Plan", "Clear Expectations"]
       },
       {
         "name": "Restorative Procedures",
         "description": "Includes crowns, bridges, veneers, and implants to repair or replace damaged or missing teeth.",
-        "image": "/Restorative_Procedures.jpg",
+        "image": "/Restorative_Procedures.jpeg",
         "benefits": [
           "Improved Functionality",
           "Enhanced Aesthetics",
@@ -63,7 +63,7 @@
       {
         "name": "Bite Alignment and Adjustment",
         "description": "Correcting the bite (occlusion) to ensure comfort, prevent wear, and improve jaw function.",
-        "image": "/Bite_Alignment_and_Adjustment.jpg",
+        "image": "/Bite_Alignment_and_Adjustment.jpeg",
         "benefits": [
           "Pain Relief",
           "Prevents Further Damage",
@@ -74,17 +74,17 @@
     "technologies": [
       {
         "name": "3D CBCT Imaging",
-        "image": "/3D_CBCT_Imaging.jpg",
+        "image": "/3D_CBCT_Imaging.jpeg",
         "description": "Cone Beam Computed Tomography for precise 3D views of your jawbone, teeth, and facial structures."
       },
       {
         "name": "Intraoral Digital Scanners",
-        "image": "/Intraoral_Digital_Scanners.jpg",
+        "image": "/Intraoral_Digital_Scanners.jpeg",
         "description": "Creates highly accurate 3D models of your teeth, eliminating the need for messy traditional impressions."
       },
       {
         "name": "CAD/CAM Technology",
-        "image": "/CAD_CAM_Technology.jpg",
+        "image": "/CAD_CAM_Technology.jpeg",
         "description": "Computer-Aided Design and Manufacturing for creating custom crowns, bridges, and veneers with perfect fit and aesthetics."
       }
     ],
@@ -167,24 +167,24 @@
       {
         "name": "Filling and Sealing",
         "description": "The cleaned canals are filled with a biocompatible material and sealed to prevent re-infection, followed by a crown for protection.",
-        "image": "/Filling_and_Sealing.jpg",
+        "image": "/Filling_and_Sealing.jpeg",
         "benefits": ["Durable Restoration", "Natural Appearance", "Long-term Protection"]
       }
     ],
     "technologies": [
       {
         "name": "Dental Microscope",
-        "image": "/Dental_Microscope.jpg",
+        "image": "/Dental_Microscope.jpeg",
         "description": "Provides high magnification and illumination for precise and thorough cleaning of root canals."
       },
       {
         "name": "Rotary Endodontics",
-        "image": "/Rotary_Endodontics.jpg",
+        "image": "/Rotary_Endodontics.jpeg",
         "description": "Flexible, nickel-titanium files that clean and shape the canals more efficiently and quietly than traditional methods."
       },
       {
         "name": "Apex Locators",
-        "image": "/Apex_Locators.jpg",
+        "image": "/Apex_Locators.jpeg",
         "description": "Electronic devices used to determine the precise length of the root canal, ensuring a complete and accurate cleaning."
       }
     ],
@@ -254,36 +254,36 @@
       {
         "name": "Implant Placement Surgery",
         "description": "A minor surgical procedure to place the titanium implant into the jawbone under local anesthesia.",
-        "image": "/treatments/implant-placement.jpg",
+        "image": "/Implant_Placement_Surgery.jpeg",
         "benefits": ["Minimally Invasive", "High Success Rate", "Foundation for New Tooth"]
       },
       {
         "name": "Bone Grafting",
         "description": "A procedure to build up the jawbone when there is insufficient bone to support an implant.",
-        "image": "/treatments/bone-grafting.jpg",
+        "image": "/Bone_Grafting.jpeg",
         "benefits": ["Enables Implant Placement", "Improves Stability", "Restores Facial Structure"]
       },
       {
         "name": "Crown Restoration",
         "description": "After the implant has integrated with the bone, a custom-made, natural-looking crown is attached to the implant.",
-        "image": "/treatments/implant-crown.jpg",
+        "image": "/Crown_Restoration.jpeg",
         "benefits": ["Aesthetic and Functional", "Perfect Color Match", "Durable and Long-lasting"]
       }
     ],
     "technologies": [
       {
         "name": "Computer-Guided Implant Surgery",
-        "image": "/tech/guided-surgery.jpg",
+        "image": "/Computer_Guided_Implant_Surgery.jpeg",
         "description": "Uses 3D imaging to plan the precise placement of the implant, increasing safety and accuracy."
       },
       {
         "name": "3D CBCT Scanner",
-        "image": "/tech/cbct-scanner.jpg",
+        "image": "/3D_CBCT_Scanner.jpeg",
         "description": "Provides detailed 3D images of the jawbone, essential for planning implant surgery."
       },
       {
         "name": "Piezosurgery",
-        "image": "/tech/piezosurgery.jpg",
+        "image": "/Piezosurgery.jpeg",
         "description": "Ultrasonic technology for precise and gentle bone surgery, minimizing trauma to surrounding tissues."
       }
     ],
@@ -360,30 +360,30 @@
       {
         "name": "Teeth Whitening (Bleaching)",
         "description": "A safe and effective procedure to lighten the color of your teeth and remove stains and discoloration.",
-        "image": "/Teeth_Whitening_Bleaching.jpg",
+        "image": "/Teeth_Whitening_(Bleaching).jpeg",
         "benefits": ["Brighter, Whiter Smile", "Fast and Effective", "Boosts Confidence"]
       },
       {
         "name": "Digital Smile Design (DSD)",
         "description": "A modern approach where you can preview your new smile on a screen before any treatment begins, ensuring predictable and satisfying results.",
-        "image": "/Digital_Smile_Design.jpg",
+      "image": "/Digital_Smile_Design (DSD).jpeg",
         "benefits": ["Visualize Your New Smile", "Co-design Your Treatment", "Predictable Outcomes"]
       }
     ],
     "technologies": [
       {
         "name": "Digital Smile Design Software",
-        "image": "/Digital_Smile_Design_Software.jpg",
+        "image": "/Digital SmileDesign_Software.avif",
         "description": "Advanced software to analyze facial and dental structures to create a smile that is in harmony with your features."
       },
       {
         "name": "Laser Dentistry",
-        "image": "/Laser_Dentistry.jpg",
+        "image": "/Laser_Dentistry.jpeg",
         "description": "Used for gum contouring and other soft tissue procedures to create a more aesthetic gum line with minimal discomfort."
       },
       {
         "name": "High-Quality Ceramics",
-        "image": "/High_Quality_Ceramics.jpg",
+        "image": "/High_Quality_Ceramics.jpeg",
         "description": "We use top-grade porcelain and ceramic materials that mimic the translucency and strength of natural teeth."
       }
     ],
@@ -438,14 +438,14 @@
       {
         "name": "Crown Fabrication & Fitting",
         "description": "Custom fabrication and precise fitting of high-quality crowns to restore tooth structure and appearance.",
-        "image": "/Crown_Fabrication_Fitting.jpg",
+        "image": "/Crown_Fabrication_&_Cleaning.jpeg",
         "benefits": ["Improved Aesthetics", "Enhanced Strength"]
       }
     ],
     "technologies": [
       {
         "name": "Digital CAD/CAM Imaging",
-        "image": "/Digital_CAD_CAM_Imaging.jpg",
+        "image": "/CAD_CAM_Technology.jpeg",
         "description": "Computer-aided design and manufacturing for precisely milled crowns and bridges."
       }
     ],
@@ -492,14 +492,14 @@
       {
         "name": "Complex Oral Surgery",
         "description": "Surgical treatment of facial trauma and jaw disorders with advanced techniques.",
-        "image": "/Complex_Oral_Surgery.jpg",
+        "image": "/Complex_Oral_Surgery.jpeg",
         "benefits": ["Effective Healing", "Reduced Complications"]
       }
     ],
     "technologies": [
       {
         "name": "3D Guided Surgery",
-        "image": "/3D_Guided_Surgery.jpg",
+        "image": "/3D_Guided_Surgery.jpeg",
         "description": "3D planning and surgical guides for precise implant and reconstructive procedures."
       }
     ],
@@ -546,14 +546,14 @@
       {
         "name": "Bone Grafting",
         "description": "Augmentation of jawbone using graft material to support dental implants.",
-        "image": "/Bone_Grafting.jpg",
+        "image": "/Bone_Grafting.jpeg",
         "benefits": ["Enhanced Stability", "Bone Regeneration"]
       }
     ],
     "technologies": [
       {
         "name": "Piezosurgery",
-        "image": "/Piezosurgery.jpg",
+        "image": "/Piezosurgery.jpeg",
         "description": "Ultrasonic bone cutting tool for minimally invasive graft procedures."
       }
     ],
@@ -600,14 +600,14 @@
       {
         "name": "Impacted Tooth Extraction",
         "description": "Gentle surgical removal of impacted teeth ensuring minimal discomfort.",
-        "image": "/Impacted_Tooth_Extractio.jpg",
+        "image": "/Intraoral_Camera_Imaging.jpeg",
         "benefits": ["Quick Recovery", "Minimal Pain"]
       }
     ],
     "technologies": [
       {
         "name": "Intraoral Camera Imaging",
-        "image": "/Intraoral_Camera_Imaging.jpg",
+        "image": "/Intraoral_Camera_Imaging.jpeg",
         "description": "High-definition imaging to plan precise extractions and monitor healing."
       }
     ],
@@ -659,14 +659,14 @@
       {
         "name": "Clear Aligner Therapy",
         "description": "Custom-made clear aligners for discreet teeth straightening.",
-        "image": "/Clear_Aligner_Therapy.jpg",
+        "image": "/Clear_Aligner_Therapy.jpeg",
         "benefits": ["Invisible Treatment", "Comfortable Fit"]
       }
     ],
     "technologies": [
       {
         "name": "3D Smile Simulation",
-        "image": "/3D_Smile_Simulation.jpg",
+        "image": "/Clear_Aligner_Therapy.jpeg",
         "description": "Digital preview of treatment outcome before starting orthodontic therapy."
       }
     ],
@@ -713,14 +713,13 @@
       {
         "name": "Flexible Partial Denture Fitting",
         "description": "Design and fitting of flexible dentures for superior comfort.",
-        "image": "/Flexible_Partial_Denture_Fitting.jpg",
+        "image": "/Flexible_Dentures.jpg",
         "benefits": ["Comfortable Wear", "Natural Look"]
       }
     ],
     "technologies": [
       {
         "name": "Thermoplastic Resin",
-        "image": "/Thermoplastic_Resin.jpg",
         "description": "Advanced materials for durable and flexible denture frameworks."
       }
     ],
@@ -767,14 +766,14 @@
       {
         "name": "Complete Denture Fabrication",
         "description": "Custom fabrication of full dentures tailored to your mouth anatomy.",
-        "image": "/Complete_Denture_Fabrication.jpg",
+        "image": "/Complete_&_Partial_Denture.jpg",
         "benefits": ["Full Tooth Replacement", "Improved Chewing Function"]
       }
     ],
     "technologies": [
       {
         "name": "Digital Impression Scanning",
-        "image": "/Digital_Impression_Scanning.jpg",
+        "image": "/Complete_&_Partial_Denture.jpg",
         "description": "Precise digital impressions for perfectly fitting dentures."
       }
     ],
@@ -828,7 +827,7 @@
     "technologies": [
       {
         "name": "Dental Microscopy",
-        "image": "/Dental_Microscopy.jpg",
+        "image": "/Post_&_Core_Prosthesis_for_Crown.jpg",
         "description": "Enhanced magnification for precise post and core placement."
       }
     ],
@@ -882,7 +881,7 @@
     "technologies": [
       {
         "name": "Ultrasonic Scaler",
-        "image": "/Ultrasonic_Scaler.jpg",
+        "image": "/Scaling_Polishing_&_Bleaching_(Oral Prophylaxis).jpg",
         "description": "High-frequency instruments for efficient and comfortable cleaning."
       }
     ],
@@ -929,14 +928,14 @@
       {
         "name": "Panoramic & RVG Imaging",
         "description": "Comprehensive dental imaging for accurate diagnosis.",
-        "image": "/Panoramic_&_RVG_Imaging.jpg",
+        "image": "/O.P.G R.V.G X-Ray.jpg",
         "benefits": ["Detailed Views", "Early Detection"]
       }
     ],
     "technologies": [
       {
         "name": "Digital Radiography",
-        "image": "/Digital_Radiography.jpg",
+        "image": "/O.P.G R.V.G X-Ray.jpg",
         "description": "High-resolution intraoral and panoramic X-ray imaging."
       }
     ],
@@ -983,14 +982,14 @@
       {
         "name": "Child-Friendly Exams",
         "description": "Gentle examinations and cleanings with kid-friendly techniques.",
-        "image": "/Child_Friendly_Exams.jpg",
+        "image": "/All_Paedodontic_Treatments_for_Childrens.jpg",
         "benefits": ["Comfortable Experience", "Fun Environment"]
       }
     ],
     "technologies": [
       {
         "name": "Pediatric Dental Equipment",
-        "image": "/Pediatric_Dental_Equipment.jpg",
+        "image": "/All_Paedodontic_Treatments_for_Childrens.jpg",
         "description": "Specialized tools designed for children’s comfort and safety."
       }
     ],
