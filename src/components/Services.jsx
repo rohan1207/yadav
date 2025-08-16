@@ -7,7 +7,7 @@ const services = [
     title: "Full Mouth Rehabilitation",
     description:
       "Full mouth rehabilitation, also known as full mouth reconstruction, is a comprehensive dental treatment plan that aims to restore the health, function, and appearance of all teeth in the mouth",
-    image: "/Full_Mouth_Rehabilitation.jpg",
+    image:"/Full_Mouth_Rehabilitation.jpg",
     link: "full-mouth-rehabilitation",
   },
   {
@@ -136,7 +136,9 @@ const ServiceCard = ({ service, index }) => {
           to={`/services/${service.link}`}
           className="inline-flex items-center text-amber-500 font-medium group/link hover:text-amber-700 transition-colors duration-200"
         >
+
           Learn more
+          
           <svg
             className="w-4 h-4 ml-2 transform transition-transform duration-200 group-hover/link:translate-x-1"
             fill="none"

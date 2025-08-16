@@ -125,9 +125,7 @@ const Footer = () => {
             © {new Date().getFullYear()} Ujwal Multispeciality Dental Clinic.
             All rights reserved.
           </p>
-          <p className="font-light text-neutral-500">
-            Designed & Developed By Markitects
-          </p>
+         
           <div className="flex items-center gap-6">
             <Link
               to="/privacy-policy"
